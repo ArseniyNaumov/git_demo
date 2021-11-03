@@ -1,4 +1,5 @@
-ERGFAEFVAFVADFVADFVADFV ADFVADFVADFVADFVADFVADFV ADF
-фкапфвапмфва
-фвамифва
+First line
+second line
+
+Extrline for Gui test
 
