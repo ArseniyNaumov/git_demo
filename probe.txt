@@ -1,5 +1,0 @@
-First line
-second line
-
-Extrline for Gui test
-
